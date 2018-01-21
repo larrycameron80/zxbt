@@ -30,7 +30,7 @@ contract Token is owned {
     /// @notice send `_value` token to `_to` from `msg.sender`
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
-	/// @param _message The message to be transferred (optional-0xbt)
+    /// @param _message The message to be transferred (optional-0xbt)
     /// @return Whether the transfer was successful or not
     function transfer(address _to, uint256 _value, string _message) returns (bool success) {}
 
