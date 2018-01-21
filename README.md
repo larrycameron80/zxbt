@@ -1,5 +1,5 @@
-<b>ZerroXBToken Progect 0xbt</b>
-Contract
+<b>ZerroXBToken Progect 0xbt</b><br>
+Contract<br />
 In file zxbt.sol a new parameter.<br>
 
     /// @param _message The message to be transferred (optional-0xbt)
