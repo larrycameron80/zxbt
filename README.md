@@ -6,3 +6,9 @@ In contract zxbt.sol a new parameter.<br>
     function transfer(address _to, uint256 _value, string _message) returns (bool success) {}
 
 Now when you transfer tokens, you can send messages, sign a send.
+You can send messages without sending tokens.
+Set the amount of tokens = 0.
+Messages can be sent by any owner of 1 ZXBT token.
+Messages can be sent to any address in the Ethereum network.
+
+https://zxbt.0xbt.net
